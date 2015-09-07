@@ -8,4 +8,5 @@ It's creates mini widget system based on web template
 
 1. Change `config.php` file contents
 2. Import `db.sql` into your database
-3. Run composer update command
+3. Create `vendor` and `cache` folders in web root with write access for scripts
+4. Run composer update command
