@@ -1,0 +1,32 @@
+body .tab-pane {
+    border-style: solid;
+    border-color: #ddd;
+    border-width: 1px;
+    border-top-style: none;
+    padding: 1em;
+}
+
+input[name="width_units"], input[name="height_units"] {
+    display: none!important;
+}
+
+input[name="width_units"]+label, input[name="height_units"]+label {
+    width: 2em;
+    height: 100%;
+    padding-top: 2px;
+    
+}
+
+input[name="width_units"]:checked+label, input[name="height_units"]:checked+label {
+    background-color: gray;
+    color: white;
+}
+
+/*.items img {
+    margin-bottom: 1em;
+    margin-left: 10px;
+}
+
+.items .content {
+    padding-left: 70px;
+}*/

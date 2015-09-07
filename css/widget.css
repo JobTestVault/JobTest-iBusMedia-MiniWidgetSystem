@@ -1,0 +1,19 @@
+.script-type.container .row, .items.widget .row {
+    padding-left: 8px;
+}
+
+.script-type.container .row:first-child {
+    padding-top: 2px;
+}
+
+.script-type.container .row img, .items.widget .row img {
+    margin-top: 10px;
+}
+
+.script-type.container .content {
+    padding-left: 70px;
+}
+
+.items.widget .content {
+    padding-left: 60px;
+}
