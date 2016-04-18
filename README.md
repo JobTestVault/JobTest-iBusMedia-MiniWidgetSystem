@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/github/license/MekDrop/JobTest-iBusMedia-MiniWidgetSystem.svg?maxAge=2592000)](License.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/JobTest-iBusMedia-MiniWidgetSystem.svg?maxAge=2592000)
 # What is this?
 
 This is an webpage created for ibusmedia as job test.
